@@ -168,6 +168,7 @@ button{
 	border-radius: 30px;
 	transition: .4s; 
 }
+
 button:hover{
 	background-color: transparent;
 	border: 2px solid #f9004d;
