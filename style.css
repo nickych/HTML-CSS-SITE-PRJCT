@@ -65,6 +65,7 @@ nav ul li a:hover{
 .btn:hover{
 	transform: scale(1.2);
 }
+
 .content{
 	position: absolute;
 	top: 50%;
